@@ -11,6 +11,7 @@ use images and bulleted lists to address the following questions:
 
 - how is the district summary affected?
 ![Image of original district summary](https://github.com/ozloty06/School_District_Analysis/blob/main/Resources/District_Summary_original.png)
+
 ![Image of adjusted district summary](https://github.com/ozloty06/School_District_Analysis/blob/main/Resources/District_Summary_adjusted.png)
 
 - how is the shcool summary affected
