@@ -10,8 +10,13 @@ This analysis uses Python, Pandas library, and Jupyter Notebook.
 use images and bulleted lists to address the following questions:
 
 - how is the district summary affected?
+![Image of original district summary](https://github.com/ozloty06/School_District_Analysis/blob/main/Resources/District_Summary_original.png)
+![Image of adjusted district summary](https://github.com/ozloty06/School_District_Analysis/blob/main/Resources/District_Summary_adjusted.png)
 
 - how is the shcool summary affected
+![Image of original school summary](https://github.com/ozloty06/School_District_Analysis/blob/main/Resources/School_Summary_original.png)
+![Image of adjusted school summary](https://github.com/ozloty06/School_District_Analysis/blob/main/Resources/School_Summary_adjusted.png)
+
 - how does replacing ninth graders math and reading scores impact thomas high school performance relative to other schools?
 - how does replacing ninth grades scores impact the following
   - math and reading scores by grade
