@@ -9,7 +9,7 @@ Python, Pandas library, and Jupyter Notebook were used to conduct this analysis.
 ## Results
 
 #### District Results
-At the district level, a summary of of total schools and total students was provided along with a total budget for the district. Overall district performance was also summarized with average math and reading scores and percentage of students passing* math, reading or both. With 461 Thomas High School 9th graders out of a total of 39,170 students in the whole district representing only 1.2% of the student population, it's not surprising to see the average scores and passing percentages remain unchanged (see Figure 1).
+At the district level, a summary of of total schools and total students was provided along with a total budget for the district. Overall district performance was also summarized with average math and reading scores and percentage of students passing** math, reading or both. With 461 Thomas High School 9th graders out of a total of 39,170 students in the whole district representing only 1.2% of the student population, it's not surprising to see the average scores and passing percentages remain unchanged (see Figure 1).
 
 ##### Figure 1. District Summary 
 ![Image of original district summary](https://github.com/ozloty06/School_District_Analysis/blob/main/Resources/District_Summary_original.png)
@@ -27,13 +27,12 @@ Interestingly, average math scores increased by 0.07% when we included 9th grade
 
 Looking at math and reading performance averages for other charter schools on Figures 2 and 3, we see an average math score of 83.4 and an average reading score of 83.8, which is in line with what we see at Thomas High School in both tables, regardless of inclusion/exclusion of 9th grade students. The average percent passing math at the other charter schools is 93.69% and the average percent passing reading is 96.34%. Thomas High School's percentage of students passing math and reading came in at 93.19%-93.27% and 97.02%-97.31% respectively with 9th graders included in the higher percentage for both. Removing the 9th grade scores would drop Thomas High School's passing percentages across both subjects, taking math further from the average of these 3 other charter schools for math while closer to the average performance for reading. 
 
+** Passing scores are scares equal to 70 or greater.
 #### Additional Results
 
 When we review the scores by grade, 9th graders at Thomas High School, like their fellow 10th-12th graders, perform on average similarly to other school districts. Reviewing scores by spending, once again we are comparing results with only a 1.2% difference in student population over the entire district so it's not surprisng to see no difference in average scores by spending. (Note: Thomas High School is in a $630-644 spend per student range).
 
 As a medium sized school, similar to our findings in school spending, results are not impacted regardless of the inclusion of Thomas High School 9th graders in our data set. Lastly, this is consistent for school type, where Thomas High School results do not vary across data sets.
-
-* Passing scores are scares equal to 70 or greater.
 
 ## Summary
 In summary, the district results are not impacted by the removal of Thomas High School 9th grade student scores from our data set. It is likely this is the result of these 9th graders representing only 1.2% of the student population.
